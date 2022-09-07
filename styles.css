@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-svg {
+  background-color: #ffffff;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.deeper-container {
+  margin-bottom: 20px;
+}
+.boxes {
+  height: 170px;
+}
+
+.lite-blue {
+  color: #41b7e6;
+}
+
+.red {
+  color: #f31010;
+}
+
+.blue {
+  color: #3f41d8;
+}
+
+.redbox {
+  background-color: #f31010;
+}
